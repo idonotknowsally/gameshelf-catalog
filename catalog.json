@@ -1,0 +1,36 @@
+{
+  "games": [
+    {
+      "slug": "0ad-windows",
+      "title": "0 A.D. для Windows",
+      "description": "Официальная раздача 0 A.D. Release 28 (Boiorix) для 64-битной Windows. Игру выпускает Wildfire Games по свободной лицензии GPL: разработчики сами выкладывают этот .torrent и просят им делиться.\n\nКнопка «Скачать .torrent» сохраняет файл с сайта releases.wildfiregames.com. Дальше его открывает обычный торрент-клиент. Установщик весит около 1,5 ГБ.\n\nОбложка — скриншот с play0ad.com, CC BY-SA 3.0, Wildfire Games.",
+      "genre": "Стратегия",
+      "developer": "Wildfire Games",
+      "year": 2026,
+      "tags": [
+        "открытый код",
+        "официальная раздача",
+        "Windows"
+      ],
+      "cover": "covers/0ad-windows.webp",
+      "torrent": "torrents/0ad-windows.torrent",
+      "torrent_sha256": "d8b8dc82de850d52d980286ed36fef4b66f3baf57210e62f8543bf6a877ded6e"
+    },
+    {
+      "slug": "0ad-linux",
+      "title": "0 A.D. для Linux",
+      "description": "Официальная раздача 0 A.D. Release 28 (Boiorix) в формате AppImage для Linux. Тот же свободный проект Wildfire Games: файл .torrent опубликован разработчиками на releases.wildfiregames.com.\n\nКнопка «Скачать .torrent» сохраняет именно этот файл. В клиенте начнётся загрузка AppImage, около 1,7 ГБ.\n\nОбложка — скриншот с play0ad.com, CC BY-SA 3.0, Wildfire Games.",
+      "genre": "Стратегия",
+      "developer": "Wildfire Games",
+      "year": 2026,
+      "tags": [
+        "открытый код",
+        "официальная раздача",
+        "Linux"
+      ],
+      "cover": "covers/0ad-linux.webp",
+      "torrent": "torrents/0ad-linux.torrent",
+      "torrent_sha256": "ccac11230b9bf9876b055ad529a038d68fd5499343c387408df792acc56c8acf"
+    }
+  ]
+}
